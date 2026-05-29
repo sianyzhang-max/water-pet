@@ -1,4 +1,4 @@
-#**💧 Water Pet (ADHD Friendly Hydration)**
+#**💧 Water Pet**
 
 A healing companion for ADHD brains, built hand-in-hand with AI.
 Because sometimes, we all need a little help to take care of ourselves.
